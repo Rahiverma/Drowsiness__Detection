@@ -1,0 +1,6 @@
+> Make a new environment with python 3.6
+> try to run the code without any libraries installed
+> When you get the error, install the library one by one
+> Before "dlib", make sure "cmake" is installed
+> for Dlib - use this command "pip install dlib-19.8.1-cp36-cp36m-win_amd64.whl"
+> the above dlib file is compatible with python version 3.6 only
